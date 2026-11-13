@@ -69,6 +69,6 @@ flowchart LR
 
 ---
 
-**Quer algo assim no seu negócio?** → [WhatsApp](https://wa.me/5587996032135?text=Ol%C3%A1%20Dimmi%2C%20vi%20seu%20GitHub%20e%20quero%20conversar%20sobre%20um%20projeto.) · [atossofts.com.br](https://atossofts.com.br) · [LinkedIn](https://www.linkedin.com/in/dimmisueg/)
+**Quer algo assim no seu negócio?** → [WhatsApp](https://wa.me/5587996032135?text=Ol%C3%A1%20Dimmi%2C%20vi%20seu%20GitHub%20e%20quero%20conversar%20sobre%20um%20projeto.) · [contato@atossofts.com.br](mailto:contato@atossofts.com.br) · [atossofts.com.br](https://atossofts.com.br) · [LinkedIn](https://www.linkedin.com/in/dimmisueg/)
 
 <sub>🇺🇸 Lead-generation landing page for a pool service company in Orange County, CA. AI photo diagnosis (Gemini Vision), instant Telegram alerts with the photo, kanban CRM, call-tap tracking and traffic attribution. Client code is private.</sub>
