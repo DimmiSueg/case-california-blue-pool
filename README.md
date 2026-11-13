@@ -39,6 +39,11 @@ Enquanto a IA analisa a foto, uma conversa curta pede nome, e-mail e telefone: o
 ### 📲 Lead no celular na hora
 Cada lead chega no **Telegram** do dono com nome, telefone e e-mail prontos para copiar, a origem do contato e **a foto da piscina**. Se o Telegram falhar, o sistema tenta de novo e o lead vai para um painel de "não notificados". **Nenhum lead se perde em silêncio.**
 
+<p align="center">
+  <img src="img/ai-6-telegram.jpg" width="300" alt="Alerta no Telegram: novo lead do AI Pool Doctor com contato, botões WhatsApp e Abrir no WP, foto da piscina e diagnóstico da IA">
+</p>
+<p align="center"><sub>Alerta real no grupo de leads da empresa: contato, atalhos para WhatsApp e para o CRM, foto da piscina e diagnóstico da IA (lead de teste; contato ocultado).</sub></p>
+
 ### 🗂️ CRM em kanban
 Os leads entram num funil visual: *Novo → Contatado → Orçamento enviado → Agendado → Ganho / Perdido*.
 
