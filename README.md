@@ -6,6 +6,14 @@
 
 ---
 
+![Landing page da California Blue Pool](img/desktop-hero.jpg)
+
+<p align="center">
+  <img src="img/mobile-hero.jpg" width="280" alt="AI Pool Doctor no celular: tire uma foto e descubra o problema em 10 segundos">
+</p>
+
+---
+
 ## O problema
 
 Empresas de serviço gastam com anúncio, recebem visita no site e **perdem o cliente nos minutos seguintes**: o formulário cai num e-mail que ninguém olha, ninguém sabe de onde o lead veio, e o dono só descobre o problema da piscina quando chega lá.
