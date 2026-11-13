@@ -25,6 +25,17 @@ Uma landing page rápida, com um backend sob medida em WordPress, em que **cada 
 ### 🤖 AI Pool Doctor
 O visitante tira uma foto da piscina e a IA (**Google Gemini Vision**) devolve, em até 3 frases, o provável problema (algas, água turva, sujeira...) e a recomendação de agendar o serviço. A foto e o diagnóstico ficam **anexados ao lead**, então quem liga para o cliente já sabe o que vai encontrar.
 
+Enquanto a IA analisa a foto, uma conversa curta pede nome, e-mail e telefone: o visitante recebe o diagnóstico e o dono recebe o lead completo.
+
+<p align="center">
+  <img src="img/ai-1-nome.jpg" width="150" alt="Foto recebida: a conversa pede o primeiro nome">
+  <img src="img/ai-2-email.jpg" width="150" alt="Pede o e-mail para enviar o relatório">
+  <img src="img/ai-3-telefone.jpg" width="150" alt="Pede o telefone e o botão Diagnose my pool">
+  <img src="img/ai-4-analisando.jpg" width="150" alt="IA analisando a foto da piscina">
+  <img src="img/ai-5-diagnostico.jpg" width="150" alt="Diagnóstico da IA: água levemente turva e início de algas, com recomendação de serviço">
+</p>
+<p align="center"><sub>Fluxo real no celular, com foto de uma piscina de verdade. O diagnóstico final é a resposta do Gemini, sem edição.</sub></p>
+
 ### 📲 Lead no celular na hora
 Cada lead chega no **Telegram** do dono com nome, telefone e e-mail prontos para copiar, a origem do contato e **a foto da piscina**. Se o Telegram falhar, o sistema tenta de novo e o lead vai para um painel de "não notificados". **Nenhum lead se perde em silêncio.**
 
